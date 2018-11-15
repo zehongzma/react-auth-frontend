@@ -1,1 +1,1 @@
-export const API_URL = 'https://hkappdlv006:8080'
+export const API_URL = 'http://hkappdlv006:8080'
